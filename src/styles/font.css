@@ -1,0 +1,37 @@
+:root {
+    --c1 : #4F6367;
+    --c2 : #7A9E9F;
+    --c3 : #B8D8D8;
+    --c4 : #CEE79D;
+
+    --c31 : #ACCCCC;
+
+    --b1 : #FE5F55;
+    --b2 : #EEF5DB;
+
+    --white : #F3F6F6;
+    --grey : #D9D9D9;
+    --black : #242527;
+}
+.font-white {
+  color: var(--white);
+}
+.font-black {
+  color: var(--c1);
+}
+.font-spacing {
+  line-height: 2rem;
+}
+
+.montserrat-extralight {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+.montserrat-regular {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
